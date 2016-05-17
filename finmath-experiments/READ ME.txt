@@ -1,0 +1,16 @@
+finmath experiments
+===================
+
+Experiments and demos based on finmath lib.
+
+NOTE:
+-----
+
+For updates check http://www.finmath.net/java
+
+
+DOCUMENTATION:
+--------------
+
+For API documentation see http://www.finmath.net/java
+
